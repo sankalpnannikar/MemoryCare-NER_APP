@@ -41,6 +41,10 @@ This command will move the starter code to the **app-example** directory and cre
 - If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
 - Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
 
+## Video Demo
+Demo video showcasing MemoryCare NER’s AI-powered cognitive games, voice assistance, memory support, reminders, offline functionality, and caregiver dashboard.
+https://drive.google.com/file/d/1LtmET2d9W2-XzBYZBZEmfk-bVhU1_XAD/view?usp=sharing
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
