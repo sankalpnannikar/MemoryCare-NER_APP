@@ -43,7 +43,7 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## Video Demo
 Demo video showcasing MemoryCare NER’s AI-powered cognitive games, voice assistance, memory support, reminders, offline functionality, and caregiver dashboard.
-https://drive.google.com/file/d/1LtmET2d9W2-XzBYZBZEmfk-bVhU1_XAD/view?usp=sharing
+https://drive.google.com/file/d/1vvVTysXNhSJiy4wMNkrV60mdoHmHVBHp/view?usp=drive_link
 
 ## Learn more
 
